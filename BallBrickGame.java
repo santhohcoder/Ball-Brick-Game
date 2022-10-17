@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ballbrickgame{
+class BallBrickGame{
 	
 	static Scanner sc = new Scanner(System.in);
 	static char arr[][];
